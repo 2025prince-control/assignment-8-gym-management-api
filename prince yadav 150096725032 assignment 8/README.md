@@ -1,6 +1,14 @@
 # 🏋️‍♂️ Gym & Fitness Club Management REST API
 
+> 🌐 **Live Deployed API URL**: https://assignment-8-gym-management-api-2ox9.onrender.com
+
 A full-featured, production-ready backend REST API for a **Gym & Fitness Club Management System** built with **Node.js**, **Express.js**, **MongoDB/Mongoose**, **Passport.js (Local Strategy)**, and **Express-Session**.
+
+---
+
+## 🌐 Live Deployment
+- **Base URL**: https://assignment-8-gym-management-api-2ox9.onrender.com
+- **Health Check**: https://assignment-8-gym-management-api-2ox9.onrender.com/
 
 ---
 
